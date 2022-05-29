@@ -55,7 +55,7 @@ ThemeData getDarkTheme(BuildContext context) {
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
         fixedSize: const Size(
-          120,
+          115,
           60,
         ),
       ).copyWith(
